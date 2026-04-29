@@ -1,13 +1,10 @@
-html {
-  color-scheme: light dark;
-}
-
 body {
   display: flex;
   justify-content: center;
   align-items: center;
   min-height: 100vh;
 }
+
 body img {
   max-width: 100%;
 }
